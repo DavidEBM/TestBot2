@@ -1,0 +1,9 @@
+{
+  "name": "bot-test-2",
+  "version": "0.0.0",
+  "description": "Bot Test 2",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

@@ -1,0 +1,3 @@
+C:\Users\David\OneDrive\Escritorio\Bot Test 2\Bot Test 2\obj\Debug\Bot Test 2.njsproj.AssemblyReference.cache
+C:\Users\David\OneDrive\Escritorio\Bot Test 2\Bot Test 2\obj\Debug\Bot Test 2.njsproj.CoreCompileInputs.cache
+C:\Users\David\OneDrive\Escritorio\Bot Test 2\Bot Test 2\bin\Microsoft.NodejsTools.WebRole.dll
